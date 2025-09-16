@@ -2,6 +2,11 @@
 
 As a third-year student in the Digital Media and Web Studies program (BUT MMI) at the University of Rouen, I am learning new technologies and tools to build my professional future.
 
+## Skills
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+
 <!--
 **Charlesprevost/Charlesprevost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
