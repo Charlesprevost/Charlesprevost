@@ -20,10 +20,8 @@ Third-year student in the Digital Media and Web Studies program (BUT MMI) at the
 ## Useful Links about me 
 
 <p align="left">
-  <a href="https://linkedin.com/in/nicolas-vero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.codewars.com/users/NicolasVero/stats"><img src="https://img.shields.io/badge/codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"></a>
+  <a href="https://www.linkedin.com/in/charles-prevost-93156b304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailtocharles.pvst1708@gmail.com"><img src="https://img.shields.io/badge/nicolasvero03@gmail.com-399D72?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- <a href="https://nicolas-vero.fr"><img src="https://img.shields.io/badge/Mon%20Portfolio-1b73a6?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio"></a> -->
 </p>
 
 
