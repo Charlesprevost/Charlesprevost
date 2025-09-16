@@ -1,6 +1,6 @@
 ## Hello 👋
 
-Student at the University of Rouen, in BUT MMI (Multimedia), i learn new technologies and tools to build my future
+As a third-year student in the Digital Media and Web Studies program (BUT MMI) at the University of Rouen, I am learning new technologies and tools to build my professional future.
 
 <!--
 **Charlesprevost/Charlesprevost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
