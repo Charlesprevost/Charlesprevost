@@ -21,7 +21,7 @@ Third-year student in the Digital Media and Web Studies program (BUT MMI) at the
 
 <p align="left">
   <a href="https://www.linkedin.com/in/charles-prevost-93156b304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailtocharles.pvst1708@gmail.com"><img src="https://img.shields.io/badge/nicolasvero03@gmail.com-399D72?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:charles.pvst1708@gmail.com"><img src="https://img.shields.io/badge/charles.pvst1708@gmail.com-399D72?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 
