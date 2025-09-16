@@ -24,4 +24,4 @@ Third-year student in the Digital Media and Web Studies program (BUT MMI) at the
 
 
 
-![Snake animation](https://github.com/Charlesprevost/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Charlesprevost/Charlesprevost/blob/output/github-contribution-grid-snake.svg)
