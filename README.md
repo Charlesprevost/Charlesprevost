@@ -1,6 +1,6 @@
-## Hello 👋
+## Hello 👋 I'm Charles !
 
-As a third-year student in the Digital Media and Web Studies program (BUT MMI) at the University of Rouen, I am learning new technologies and tools to build my professional future.
+Third-year student in the Digital Media and Web Studies program (BUT MMI) at the University of Rouen, I am learning new technologies and tools to build my professional future.
 
 ## Skills
 
@@ -17,7 +17,7 @@ As a third-year student in the Digital Media and Web Studies program (BUT MMI) a
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Useful Links
+## Useful Links about me 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
